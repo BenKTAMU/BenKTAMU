@@ -46,6 +46,6 @@ A stealth game built in **Unity (C#)** with an **adaptive enemy AI system** that
 
 <p align="left">
   <a href="https://www.linkedin.com/in/benjaminvkumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://benktamu.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
