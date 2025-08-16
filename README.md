@@ -1,13 +1,11 @@
 # Hi, I'm Benjamin 👋  
 
-I’m a **Software Engineer** with a focus on **Computer Vision, Machine Learning, and Systems Programming**.  
-I enjoy solving challenging problems by combining **low-level efficiency** with **high-level intelligence** — whether that’s building CPUs from scratch or creating real-time vision systems.  
+I’m a **Software Engineer** studying Computer Science at Texas A&M University. I'm interested in everything from full-stack development to robotics to computer vision and machine learning.
 
 ---
 
 ## 🧑‍💻 Technical Focus  
 - **Computer Vision & ML**: OpenCV, MediaPipe, PyTorch, TensorFlow  
-- **Systems & Performance**: C++, Golang, HDL, Linux  
 - **Full-Stack Development**: Python (Django/Flask), Node.js, SQL, JavaScript  
 
 ---
