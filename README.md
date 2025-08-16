@@ -12,12 +12,22 @@ I’m a **Software Engineer** studying Computer Science at Texas A&M University.
 
 ## 📂 Selected Projects  
 
-- [**AirMouse**](https://github.com/BenKTAMU/computer-vision-mouse)  
-  Built a real-time hand-tracking system (OpenCV + MediaPipe) to map gestures into mouse control with sub-50ms latency.
--  [**LifeAsSTEM**](https://github.com/BenKTAMU/LifeAsSTEM)
-  A BitLife inspired life simulation game designed to help young engineers discover which field of STEM is right for them. Utilizes a Django based backend and vanilla JavaScript frontend.
-- [**HOA**](https://github.com/BenKTAMU/GameJamSpring2025)
-  A stealth game developed in Unity using c# featuring an advanced enemy AI system capable adapting to player behavior.
+### 🔹 [AirMouse](https://github.com/BenKTAMU/computer-vision-mouse)  
+Real-time hand-tracking system using **OpenCV + MediaPipe**, controlling the mouse with **<50ms latency**.  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+
+---
+
+### 🔹 [LifeAsSTEM](https://github.com/BenKTAMU/LifeAsSTEM)  
+A **BitLife-inspired simulation game** for exploring STEM fields. Backend in **Django**, frontend in **vanilla JavaScript**.  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
+---
+
+### 🔹 [HOA](https://github.com/BenKTAMU/GameJamSpring2025)  
+A stealth game built in **Unity (C#)** with an **adaptive enemy AI system** that responds to player behavior.  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
+
   
  
 
