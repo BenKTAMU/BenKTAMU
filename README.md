@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin 👋  
+# Hi, I'm Ben 👋  
 
 I’m a **Software Engineer** studying Computer Science at Texas A&M University. I'm interested in everything from full-stack development to game development to computer vision and machine learning.
 
