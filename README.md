@@ -1,12 +1,13 @@
 # Hi, I'm Benjamin 👋  
 
-I’m a **Software Engineer** studying Computer Science at Texas A&M University. I'm interested in everything from full-stack development to robotics to computer vision and machine learning.
+I’m a **Software Engineer** studying Computer Science at Texas A&M University. I'm interested in everything from full-stack development to game development to computer vision and machine learning.
 
 ---
 
 ## 🧑‍💻 Technical Focus  
 - **Computer Vision & ML**: OpenCV, MediaPipe, PyTorch, TensorFlow  
-- **Full-Stack Development**: Python (Django/Flask), Node.js, SQL, JavaScript  
+- **Full-Stack Development**: Python (Django/Flask), Node.js, SQL, JavaScript
+- **Game Development**: C#, C++, Unity
 
 ---
 
