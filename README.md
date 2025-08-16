@@ -15,7 +15,12 @@ I enjoy solving challenging problems by combining **low-level efficiency** with 
 ## 📂 Selected Projects  
 
 - [**AirMouse**](https://github.com/BenKTAMU/computer-vision-mouse)  
-  Built a real-time hand-tracking system (OpenCV + MediaPipe) to map gestures into mouse control with sub-50ms latency.  
+  Built a real-time hand-tracking system (OpenCV + MediaPipe) to map gestures into mouse control with sub-50ms latency.
+-  [**LifeAsSTEM**](https://github.com/BenKTAMU/LifeAsSTEM)
+  A BitLife inspired life simulation game designed to help young engineers discover which field of STEM is right for them. Utilizes a Django based backend and vanilla JavaScript frontend.
+- [**HOA**](https://github.com/BenKTAMU/GameJamSpring2025)
+  A stealth game developed in Unity using c# featuring an advanced enemy AI system capable adapting to player behavior.
+  
  
 
 ---
